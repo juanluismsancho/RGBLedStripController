@@ -1,2 +1,3 @@
 Este es el nuevo archivo
 Lo he modificado
+Esta linea la ha metido otro usuario
