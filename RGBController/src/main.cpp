@@ -50,6 +50,8 @@ void loop() {
         Serial.println("MODO 3");
         rainbow(strip,changeMode);
       break;
+    case 4:
+      break;
     default:
       break;
   }
